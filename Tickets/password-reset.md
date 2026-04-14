@@ -22,7 +22,8 @@ User forgot password.
 User logged in successfully and updated password.  
 ![Success](../screenshots/password-reset-5-success.png)
 
-(../screenshots/password-reset-6-logs.png)
+<img width="472" height="503" alt="image" src="https://github.com/user-attachments/assets/ae90ce5b-d6ac-4bb2-8457-b254a129ac89" />
+
 ## Skills Used
 - Account management  
 - User authentication support  
